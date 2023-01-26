@@ -1,0 +1,30 @@
+{
+  "name": "csvtojson-jsontocsv",
+  "version": "1.0.0",
+  "description": "csv to json and json to csv convertor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugslogger/nodejs-csvtojson-jsontocsv-convertor.git"
+  },
+  "keywords": [
+    "csvtojson",
+    "jsontocsv",
+    "csv to json convertor",
+    "json to csv convertor"
+  ],
+  "author": "MrDark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bugslogger/nodejs-csvtojson-jsontocsv-convertor/issues"
+  },
+  "homepage": "https://github.com/Bugslogger/nodejs-csvtojson-jsontocsv-convertor#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csv-parse": "^5.3.3"
+  }
+}
